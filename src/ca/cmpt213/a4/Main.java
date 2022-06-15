@@ -1,6 +1,6 @@
 package ca.cmpt213.a4;
 /**
- *  Contains a main method that starts the GUI
+ *  MVC Treasure Hunting Text Game 
  */
 
 import ca.cmpt213.a4.control.TaskManager;
