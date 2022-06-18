@@ -1,5 +1,5 @@
-#Task Manager 
-##User Manual for GUI 
+# Task Manager 
+## User Manual for GUI 
 1) List all tasks function:
 To list all the tasks in the To-Do List, simply press "All" in the top left
 corner of the main screen.
